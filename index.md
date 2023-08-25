@@ -1,15 +1,32 @@
 ---
 layout: default
-title: Student Blog
+title: Learning Journey
 ---
 
+# About Me
 
-## Build you Home Page here 
-This is about your journey. Start now!!!
+Hi, I'm Tanay. Here's a little about me and my hobbies:
 
-## Overview of Hacks, Study and Tangibles
-Blogging in GitHub pages is a way to learn and code at the same time. 
+- **Basketball**: I like playing basketball during my free time. I'm a big NBA and Sacramento Kings fan.
 
-- Plans, Lists, [Scrum Boards](https://clickup.com/blog/scrum-board/) help you to track key events, show progress and record time.  Effort is a big part of your class grade.  Show plans and time spent!
-- [Hacks(Todo)](https://levelup.gitconnected.com/six-ultimate-daily-hacks-for-every-programmer-60f5f10feae) enable you to stay in focus with key requirements of the class.  Each Hack will produce Tangibles.
-- Tangibles or [Tangible Artifacts](https://en.wikipedia.org/wiki/Artifact_(software_development)) are things you accumulate as a learner and coder. 
+- **Video Games**: I'm into video games and spend time gaming.
+
+- **Cooking**: Cooking is a hobby of mine. I like experimenting with recipes.
+
+## Weekly Progress
+
+| Weeks     | Hacks + Tangibles               |
+|-----------|---------------------------------|
+| Week 0    |                                 |
+| Week 1    |                                 |
+| Week 2    |                                 |
+| Week 3    |                                 |
+| Week 4    |                                 |
+| Week 5    |                                 |
+| Week 6    |                                 |
+| Week 7    |                                 |
+| Week 8    |                                 |
+| Week 9    |                                 |
+| Week 10   |                                 |
+| Week 11   |                                 |
+| Week 12   |                                 |
