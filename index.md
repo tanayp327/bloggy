@@ -15,12 +15,12 @@ Hi, I'm Tanay. Here's a little about me and my hobbies:
 
 ## Weekly Progress
 
-| Weeks     | Hacks + Tangibles               |
+| Weeks     | &nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; Hacks + Tangibles               |
 |-----------|---------------------------------|
 | Week 0    |                                 |
 | Week 1    |                                 |
 | Week 2    |                                 |
-| Week 3    |                                 |
+| Week 3    |                                |
 | Week 4    |                                 |
 | Week 5    |                                 |
 | Week 6    |                                 |
