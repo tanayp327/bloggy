@@ -12,3 +12,5 @@ Hi, I'm Tanay. Here's a little about me and my hobbies:
 - **Video Games**: I'm into video games and spend time gaming.
 
 - **Cooking**: Cooking is a hobby of mine. I like experimenting with recipes.
+
+![](images/freeform.png)
