@@ -1,9 +1,12 @@
 ---
+toc: true
+comments: true
+layout: post
 title: Game of Life
-layout: base
-description: A remix of Conway's game of life using timer, onclick and algorithms.
-permalink: /frontend/life
-tags: [javascript]
+description: xx
+permalink: /game-of-life
+type: hacks
+courses: { csa: {week: 1} }
 ---
 
 {% comment %}

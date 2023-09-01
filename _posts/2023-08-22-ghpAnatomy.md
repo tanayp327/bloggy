@@ -3,6 +3,9 @@ toc: true
 comments: true
 layout: post
 title: Anatomy of GitHub Pages Blog
+description: xx
+type: tangibles
+courses: { csa: {week: 0} }
 ---
 
 ## Terms and files

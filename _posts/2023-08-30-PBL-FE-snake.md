@@ -1,10 +1,12 @@
 ---
-title: Classic Snake Game
-layout: base
-description: A pretty advanced use of JavaScript building classic snake game using menu controls, key events, snake simulation and timers.  
-permalink: /frontend/snake
-categories: [C4.9]
-tags: [javascript]
+toc: true
+comments: true
+layout: post
+title: Game of Snake
+description: xx
+permalink: /game-of-snake
+type: hacks
+courses: { csa: {week: 1} }
 ---
 
 <style>

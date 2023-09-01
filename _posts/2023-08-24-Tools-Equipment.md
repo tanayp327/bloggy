@@ -5,6 +5,8 @@ layout: post
 title: Tools and Equipment Blog
 description: Why I love my tools
 permalink: /tools-and-equipment
+type: tangibles
+courses: { csa: {week: 0} }
 ---
 
 ## **VSCode**
