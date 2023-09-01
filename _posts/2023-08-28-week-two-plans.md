@@ -2,7 +2,7 @@
 toc: true
 comments: true
 layout: post
-title: Week 1 Plans
+title: Week 2 Plans
 description: xx
 permalink: /week-1-hacks
 type: plans
