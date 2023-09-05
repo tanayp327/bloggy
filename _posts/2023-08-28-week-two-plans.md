@@ -4,7 +4,7 @@ comments: true
 layout: post
 title: Week 2 Plans
 description: xx
-permalink: /week-1-hacks
+permalink: /week-2-hacks
 type: plans
 courses: { csa: {week: 2} }
 ---
