@@ -4,7 +4,7 @@ comments: true
 layout: post
 title: Anatomy of GitHub Pages Blog
 description: xx
-type: tangibles
+type: hacks
 courses: { csa: {week: 0} }
 ---
 

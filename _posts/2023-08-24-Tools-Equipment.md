@@ -5,7 +5,7 @@ layout: post
 title: Tools and Equipment Blog
 description: Why I love my tools
 permalink: /tools-and-equipment
-type: tangibles
+type: hacks
 courses: { csa: {week: 0} }
 ---
 
