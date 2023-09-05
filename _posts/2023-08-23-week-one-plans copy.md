@@ -9,14 +9,13 @@ type: plans
 courses: { csa: {week: 1} }
 ---
 
-Student View
-Frequent Linux Commands
-Version Checking
-Verify WSL & Anaconda
-Updating Repositories With Bash
+- Linux and Bash
+     - Frequent commands
+     - Student view
+     - How to update repo
+     - version checks
 
-Comment Class Anatomy
-Comment Class Definition
-Comment Class Constructor
-Calculate stats functions on an array of values: mean, median, mode.
-Extra: Takeaways, Errors, & Solutions
+- Comment Class Anatomy
+- Comment Class Definition
+- Comment Class Constructor
+- Calculate stats functions on an array of values: mean, median, mode.
