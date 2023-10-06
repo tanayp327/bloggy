@@ -5,7 +5,7 @@ layout: post
 title: Project Plans
 description: xx
 type: plans
-courses: { compsci: {week: 6} }
+courses: { csa: {week: 6} }
 ---
 
 # Astronomy Project Plan
