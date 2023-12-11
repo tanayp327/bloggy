@@ -7,6 +7,10 @@ $secondary-color: #2ecc71;
   }
 }
 
+@mixin box-shadow($x, $y, $blur, $color) {
+    box-shadow: $x $y $blur $color;
+  }
+
 body {
   font-family: 'Arial', sans-serif;
   background-color: #ecf0f1;
