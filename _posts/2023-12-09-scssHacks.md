@@ -1,7 +1,7 @@
 ---
 toc: true
 comments: false
-layout: post
+layout: base
 title: SCSS Student Lesson Hacks
 description: xx
 permalink: /scss
