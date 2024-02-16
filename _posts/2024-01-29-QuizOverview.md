@@ -49,8 +49,8 @@ JSON Web Tokens (JWT) represent a compact and self-contained way of transmitting
 
 ## 2. POJO (Plain Old Java Object):
 
-### Detailed Characteristics:
-In the context of our Spring backend, a Plain Old Java Object (POJO) exhibits specific characteristics, forming the backbone of object-oriented programming.
+### What is a POJO?
+POJO stands for Plain Old Java Object. It is a term used to describe a Java class that follows simple conventions and does not depend on any specific frameworks or libraries. A POJO typically contains private fields with corresponding getter and setter methods, and it may also include additional methods for behaviour. We commonly use the convention of JavaBeans to have a set of rules to implement the POJOs.
 
 #### Private Fields:
 - **Encapsulation for Data Privacy:**
@@ -79,10 +79,6 @@ In the context of our Spring backend, a Plain Old Java Object (POJO) exhibits sp
         this.username = username;
     }
     ```
-
-#### Business Logic Methods:
-- **Optional Functional Enhancements:**
-  - While optional, additional business logic methods can be included based on application-specific requirements. These methods contribute to the overall functionality of the POJO.
 
 ### Changes to a POJO:
 - **Adding, Modifying, or Removing Fields:**
@@ -362,7 +358,7 @@ In the context of our Spring backend, a Plain Old Java Object (POJO) exhibits sp
       @Override
       public void doFilter(ServletRequest request, ServletResponse response,
 
- FilterChain chain)
+ FilterChain chain{
               throws IOException, ServletException {
   
           HttpServletResponse httpResponse = (HttpServletResponse) response;
@@ -438,5 +434,3 @@ server {
 #### Load Balancing Implementation:
 - **Enhancing Scalability:**
   - If needed, implement load balancing using Nginx directives like `upstream`. This distributes incoming requests among multiple backend servers, enhancing application scalability.
-
-This extensive guide aims to provide expert-level insights into each topic within the context of your Spring backend. If you have specific questions or need further clarification on any aspect, feel free to delve deeper into specific sections or ask for additional details!
