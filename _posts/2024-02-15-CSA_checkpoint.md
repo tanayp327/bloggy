@@ -1,6 +1,6 @@
 ---
 toc: true
-comments: false
+comments: true
 layout: post
 title: N@TM Checkpoint 
 description: Breaking down the data and N@TM event
